@@ -25,3 +25,6 @@ D=$HOME/.aliases
 
 # Other
 [ -f $D/other ] && source $D/other
+
+# Exegol
+[ -f $D/exegol ] && source $D/exegol
